@@ -1,0 +1,22 @@
+{
+  "name": "jp",
+  "version": "1.0.0",
+  "description": "divirta-se",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "httpserver --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliannyvieira/hello-phaser.git"
+  },
+  "author": "Joao, Patricia e Vilhalva",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.17.0"
+  },
+  "devDependencies": {
+    "httpserver": "^0.3.0"
+  }
+}

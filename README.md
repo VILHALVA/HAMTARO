@@ -24,12 +24,12 @@ Este jogo é um simples plataforma onde o jogador controla um personagem chamado
 
 3. **Jogando:**
    1. **Movimentação:**
-   - **Esquerda:** Pressione a seta esquerda do teclado.
-   - **Direita:** Pressione a seta direita do teclado.
-   - **Pular:** Pressione a seta para cima do teclado (funciona apenas se o personagem estiver tocando o chão).
+      - **Esquerda:** Pressione a seta esquerda do teclado.
+      - **Direita:** Pressione a seta direita do teclado.
+      - **Pular:** Pressione a seta para cima do teclado (funciona apenas se o personagem estiver tocando o chão).
 
-2. **Coletar Estrelas:**
-   - Movimente Hamtaro para tocar nas estrelas. As estrelas serão coletadas automaticamente quando o personagem as tocar.
+   2. **Coletar Estrelas:**
+      - Movimente Hamtaro para tocar nas estrelas. As estrelas serão coletadas automaticamente quando o personagem as tocar.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
